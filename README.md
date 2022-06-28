@@ -1,2 +1,2 @@
-# mayorDe3
+# determinarMedallaSwitch
 Created with CodeSandbox
